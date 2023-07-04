@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://adamhayek2002.github.io/adamhayek/food.html">Project Deployment</a> | 
+  🔗 <a href="https://adamhayek2002.github.io/the-grill/food.html">Project Deployment</a> | 
   📄 <a href="https://www.the-grill-lb.com/">Original Menu</a>
 </p>
 
