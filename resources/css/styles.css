@@ -712,4 +712,7 @@ p a{
     .header-right-part{
         margin-right: 15px;
     }
+    .copyright_wrap{
+        margin-bottom: 15px;
+    }
 }
