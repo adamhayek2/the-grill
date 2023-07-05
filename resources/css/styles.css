@@ -307,7 +307,7 @@ h3{
 }
 .single_item_layout{
     list-style: none;
-    display: block;
+    display: flex;
     position: relative;
     padding-right: 0px;
     padding-left: 0px;
@@ -317,14 +317,8 @@ h3{
     padding: 0 15px;
     min-height: 68px;
 }
-.item-has-image{
-    padding-left: 64px !important;
-    transition: all 250ms ease-in-out;
-}
+
 .menu-item-image{
-    position: absolute;
-    left: 0;
-    top: 0;
     overflow: hidden;
     border-radius: 400px;
     width: 54px;
@@ -336,6 +330,9 @@ h3{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+}
+.single_item_layout span{
+    flex-grow: 1;
 }
 .menu-title-wrapper{
     margin: 0 0 3px;
